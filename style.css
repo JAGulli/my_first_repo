@@ -1,0 +1,45 @@
+header {
+    display: block;
+}
+
+    nav {
+        width: 100%;
+    }
+
+        .home{
+            display: inline-block;
+            padding: 15px 20px 15px 20px;
+        }
+
+        .diet {
+            display: inline-block;
+            padding: 15px 20px 15px 20px;
+        }
+
+        .habitat {
+            display: inline-block;
+            padding: 15px 20px 15px 20px;
+        }
+
+body {
+
+}
+
+    .left {
+        width: 29%;
+        float: left;
+        height: 900px;
+        background-color: gainsboro;
+    }
+        .top{
+
+        }
+        .bottom{
+
+        }
+    .right{
+        width: 71%;
+        float: left;
+        height: 900px;
+        background-color: darkolivegreen;
+    }
